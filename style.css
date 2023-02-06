@@ -1,6 +1,8 @@
 
 .main{
     background-color:lightslategray;
+
+  
 }
 .Toph{
     border: 1px solid white;
@@ -53,12 +55,12 @@
 }
 
 .Container{
-    border: 2px solid lightslategray;
-    width: 750px; height: 450px;
+    border: 2px solid whitesmoke; border-left: gray ; border-right:gray ; border-bottom:gray ;
+    width: 750px; height: 800px;
     display: flex;
     flex-wrap: wrap;
     align-content:center;
-    margin-left:20%; margin-top: 2%;
+    margin-left:20%; margin-top:-130px;
 }
 
 p{
