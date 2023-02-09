@@ -46,6 +46,7 @@
     cursor: pointer;
     background-color: aliceblue;
     font-style: italic;
+    box-shadow: 4px 4px 5px aliceblue;
 }
 
 .strike{
