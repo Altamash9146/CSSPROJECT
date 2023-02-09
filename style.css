@@ -78,7 +78,7 @@ form{
 }
 
 .page2{
-    opacity:0.2;
+   filter:opacity(0.3);
 }
 
 .newtask{
