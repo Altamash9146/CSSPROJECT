@@ -6,20 +6,6 @@
     display: none;
 }
 
-@media screen and  (max-width: 600px) {
-    .Web{
-        display: none;
-    }
-    
-    .Mobile{
-        display: block;
-    }
-
-    .Container {
-        /* grid-template-columns: repeat(1, 1fr);  */
-        display: none;
-    }
-}
 
 body{
     background-color: whitesmoke;
